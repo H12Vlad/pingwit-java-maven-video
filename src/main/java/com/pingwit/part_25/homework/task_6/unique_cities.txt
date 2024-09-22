@@ -1,0 +1,4 @@
+Vlad: Hanover, Wroclaw, Frankfurt, Krakow, Berlin, Bielsko-Biala
+Samir: New York, Chicago, Texas, Marseille, Nice, Paris
+Anatolii: Vinnytsia, Dnipro, Uzhhorod
+Anna: Warsaw, Wisla, Katowice
