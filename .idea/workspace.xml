@@ -4,430 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/IntelliJIDEA_ReferenceCard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/committt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/HelloWorldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/IncrementOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/JavaPrimitivesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/OperatorComparisonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/OperatorDivMulExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/OperatorPriorityExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/OperatorShiftExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/OperatorSumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/ShortenedOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/homework/task_1_2_3_4/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/homework/task_5/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/homework/task_6/ProductOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/homework/task_7/Remainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/homework/task_8/AdditionOfTwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/notes/lecture_notes_part_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_1/typeCastingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_1/ClassTestProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_1/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_1/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_1/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_2/CarDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_2/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_2/FunctionalityTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/homework/task_2/Transmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/notes/lecture_notes_part_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/DeprecatedCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_1/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_2/AbstractClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_2/BabyChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_2/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_2/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_3/Champion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_3/FinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_3/OlympicChampion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_3/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_4/CarProducers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_10/point_4/CarProducersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_1/FerryInspection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_1/FerryToll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_1/TestCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/BananaMonkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/CoconutMonkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/MonkeyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/SmartMonkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/homework/task_2/TestMonkeyCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_11/notes/lecture_notes_part_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/PrivateClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/PrivateClubPrivateConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/my_personal_homework_1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/my_personal_homework_1/PlayCheckPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/my_personal_homework_1/instructions_before_my_personal_homework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_1/PlaySecretLocker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_1/SecretLocker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_2/PlayStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_2/UniversityStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_3/Flat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/homework/task_3/PlayOpenDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_12/notes/lecture_notes_part_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_13/homework/task_1/ZigzagRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_13/notes/lecture_notes_part_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_1/WordGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_2/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_3/ReplaceDotsWithCommas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_4/NumberOfWordsTakeTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_5/FilterWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_6/EngineReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/homework/task_7/SourceArrayOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_14/notes/lecture_notes_part_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/TryCatchFinallyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/TryScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/homework/task_1/GladiatorBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/homework/task_1/InvalidCommandException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/notes/lecture_notes_part_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/FinallySystemExitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/MyCustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/ThrowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_15/point_4/ToyotaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/NameValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/PersonNameValidationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/PersonValidationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/ValidatedPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/ValidationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/homework/task_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/homework/task_1/UserPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/homework/task_1/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_16/notes/lecture_notes_part_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/BetweenExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/LocalDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/ZonedDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/homework/task_1/WorldClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/homework/task_2/TimeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/homework/task_3/DateParseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/homework/task_3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/homework/task_3/PersonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_17/notes/lecture_notes_part_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_1/CreatingWritingArrayToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_1/writing_an_array_to_a_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_2/WritingTextToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_2/writing_text_to_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_3/WorkingWithTaskTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_4/Jenot.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_4/SecretWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_5/Bober.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_5/Bober_copy(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_5/Bober_copy(2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_5/Bober_copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/homework/task_5/CopyingFileBober.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/notes/lecture_notes_part_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_1/input-output hierachy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_2/FileInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_2/TryWithResourcesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_3/FileOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_3/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_4/ByteArrayInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_4/ByteArrayOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_5/BufferedInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_5/BufferedOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_5/bos_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_5/writing_an_array_to_a_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_6/DataInputOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_6/dos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_7/FileReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_7/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_7/TryWithResourcesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_7/eminem_lose_yourself.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_7/lady_gaga_bloody_mary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_8/BufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_18/point_8/BufferedWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/FileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/FilesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/ObjectInputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/ObjectOutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/homework/task_1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/homework/task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/homework/task_1/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/homework/task_2/ChangPrivateFieldToPublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/homework/task_3/DirectoryStructurePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_19/notes/lecture_notes_part_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_2/homework/OperationModTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_2/notes/lecture_notes_part_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/homework/task_1/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/homework/task_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/homework/task_1/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/homework/task_1/GarageMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/homework/task_1/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/notes/generics_lecture_notes_part_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_1/GenericTheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_1/SimpleWarehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_1/SimpleWarehouseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_2/GenericWarehouseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_3/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_3/PlantsStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_3/PlantsStatisticExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_4/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_4/DatabaseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_5/CommonDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_5/CommonDeveloperExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_5/JuniorDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_20/point_5/MiddleDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_1/IntegerArrayListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_2/PartyAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_3/RemovingSimilarItemsFromTwoCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_4/LeaveSimilarElementsFromSecondCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_5/BenchmarkArrayListAndLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/homework/task_6/BenchmarkSpeedRemovalFromBeginningArrayListAndLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/notes/collections_lecture_notes_part_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_1/array_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_1/collections_hierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_1/linked_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_2/ArrayDequeBenchmarkExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_2/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_2/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_3/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_21/point_3/ListIteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/homework/task_1/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/homework/task_1/StoreExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/homework/task_2/VisitWebSiteCheckGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/homework/task_2/WebSiteStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/notes/map_set_lecture_notes_part_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_1/map_hierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_2/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_2/MutableHashMapKeyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_3/TreeMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_3/map_implementation_complexity.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_3/red_black_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_4/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_4/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_4/TreeSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_5/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_5/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_5/BankExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_5/BankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_22/point_5/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_1/SortReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_2/StudentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_3/FruitDataList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/homework/task_4/ChoosingNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/notes/Comparator_WildCard_Regex_lecture_notes_part_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_1/BookNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_1/BookYearComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_1/ComparatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_2/WildCardExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_23/point_3/RegexExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_1/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_2/ConvertingNumberToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_3/UserMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_4/FlowerShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/homework/task_4/FlowerShopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/notes/Functional_interfaces_lambdas_lecture_notes_part_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_1/FuncInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_1/MyFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_1/MyPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_2/Doorman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_2/LambdaMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_3/CommonFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_3/Datastore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_3/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_3/MethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_4/LambdaConstructorReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_4/NetflixUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_4/NetflixUserSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_5/LambdaReturnMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_5/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_5/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_24/point_6/ExistingFunctionalInterfacesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_1/CollectionStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_2/PhoneCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_3/FindFirstNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_4/CarCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_5/CarsSortedByEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_6/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_6/TravelAroundCountries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_6/Traveler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/homework/task_6/unique_cities.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/notes/Optional, stream_lecture_notes_part_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_1/OptionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_2/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_2/StreamIterateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/FilterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/FindFirstFindAnyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/FlatMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/entity/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/entity/PhoneProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_3/entity/ShortenPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_4/GroupingByExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_4/JoiningExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_4/PartitioningExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_4/ToMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_25/point_4/ToSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_1/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_2/FindBestHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_2/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_3/ToyPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_3/TreeToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/homework/task_4/StudentsByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/notes/Stream_methods_lecture_notes_part_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/AllMatchAnyMatchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/ConcatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/DistinctExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/MinMaxExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/ReduceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/SkipLimitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/SortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_1/SummarizingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_2/Harvest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_2/HarvestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_2/HarvestStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_26/point_2/HarvestStatisticService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_27/MavenLifeCycleTheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_27/notes/Maven_lecture_notes_part_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/TernaryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/homework/CurrencyRates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_3/notes/lecture_notes_part_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/DoWhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/ReturnExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/WhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_1/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_2/Amoeba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_3/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_4/CalculationWithoutMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_5/InchToCentimeterTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_6/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_7/SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_8/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/homework/task_9/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_4/notes/lecture_notes_part_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/CommentExamole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/DebugExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/RenameExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/ReplaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/SearchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/homework/task_1/HelpDebug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/homework/task_2/HomeReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/homework/task_3/Butterfly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_5/notes/lecture_notes_part_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/AlgoComplexityExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/BinarySearchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/BubbleSortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/ForEachExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/TwoDimensionsArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_1/ArrayOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_2/AverageOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_3/ReplaceOddElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_4/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_5/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_6/EvenNumbersArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_7/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/homework/task_8/LongestSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_6/notes/lecture_notes_part_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/InitBlocksExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/StudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/StudentInitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/Theory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/ToStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_1/ExecutionQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_2/ConstructorNameAndAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_2/NameAndAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_2/taketwo_task_2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_2/taketwo_task_2/PersonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_3/PersonalInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_3/PersonalInformationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/homework/task_4/CarInsuranceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_7/notes/lecture_notes_part_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/ModifiersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_1/CarManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_2/Harvest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_2/HarvestStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_2/HarvestStatisticService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_2/HarvestStatisticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_2/HarvestStatisticsArrayVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_3/CityApartmentBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_3/CountryHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_3/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/homework/task_3/HouseCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/notes/lecture_notes_part_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/person/ImmutablePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_8/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/HashCodeEqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/RecordExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_1/ImmutableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_1/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_2/ClientDataProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_2/FamilyStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_2/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/homework/task_2/ProcessorGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/notes/lecture_notes_part_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/point_3/DogType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/point_3/EnumSwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_9/point_3/EnumTheory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="New">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/ApacheCommonsPopularMethodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/ApacheStringUtilsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/GoogleGuavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/Taras_Shevchenko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/TransformationFileIntoMSWordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/versh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/1200x1200bf-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/MicrosoftWordFileCreationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/salomon_grundy.txt.url" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mQhYnQj9FzZXweyIvvnHwRHL4f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.MicrosoftWordFileCreationExample.executor": "Run",
+    "Application.NumberOfWordsTakeTwo.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.TransformationFileIntoMSWordDocument.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.pingwit-java-maven-video [clean,install].executor": "Run",
+    "Maven.pingwit-java-maven-video [clean,package].executor": "Run",
+    "Maven.pingwit-java-maven-video [clean].executor": "Run",
+    "Maven.pingwit-java-maven-video [compile].executor": "Run",
+    "Maven.pingwit-java-maven-video [package].executor": "Run",
+    "Maven.pingwit-java-maven-video [test].executor": "Run",
+    "Maven.pingwit-java-maven-video [validate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vladh/IdeaProjects/pingwit-java-maven-video/src/main/java/com",
+    "last_opened_file_path": "C:/Users/vladh/IdeaProjects/pingwit-java-maven-video",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com\pingwit\part_28\homework\task_1" />
+      <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com\pingwit\part_28\word" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pingwit" />
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TransformationFileIntoMSWordDocument">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pingwit.App" />
       <module name="pingwit-java-maven-video" />
@@ -441,8 +98,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MicrosoftWordFileCreationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_28.word.MicrosoftWordFileCreationExample" />
+      <module name="pingwit-java-maven-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pingwit.part_28.word.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfWordsTakeTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_14.homework.task_4.NumberOfWordsTakeTwo" />
+      <module name="pingwit-java-maven-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pingwit.part_14.homework.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_26.homework.task_1.RemoveDuplicates" />
+      <module name="pingwit-java-maven-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pingwit.part_26.homework.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformationFileIntoMSWordDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_28.homework.task_1.TransformationFileIntoMSWordDocument" />
+      <module name="pingwit-java-maven-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pingwit.part_28.homework.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransformationFileIntoMSWordDocument" />
+        <item itemvalue="Application.MicrosoftWordFileCreationExample" />
+        <item itemvalue="Application.NumberOfWordsTakeTwo" />
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -463,6 +176,30 @@
       <option name="presentableId" value="Default" />
       <updated>1727014760525</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Repository">
+      <option name="closed" value="true" />
+      <created>1727016466618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727016466618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <MESSAGE value="New Repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Repository" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.charset.MalformedInputException" package="java.nio.charset" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
