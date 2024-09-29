@@ -1,0 +1,110 @@
+### Примеры использования популярных библиотек
+
+1. **Apache Commons**
+   Apache Commons – это набор утилит для работы с различными типами данных и файлов. Примеры классов: `StringUtils`, `FileUtils`, `IOUtils`.
+
+   **Пример использования `StringUtils`:**
+   ```java
+   import org.apache.commons.lang3.StringUtils;
+
+   public class Main {
+       public static void main(String[] args) {
+           String input = "  Apache Commons  ";
+           // Удаление пробелов
+           String result = StringUtils.trim(input);
+           System.out.println(result); // "Apache Commons"
+
+           // Проверка, пустая ли строка
+           boolean isEmpty = StringUtils.isEmpty(input);
+           System.out.println(isEmpty); // false
+       }
+   }
+   ```
+
+   **Пример использования `FileUtils`:**
+   ```java
+   import org.apache.commons.io.FileUtils;
+   import java.io.File;
+   import java.io.IOException;
+
+   public class Main {
+       public static void main(String[] args) throws IOException {
+           File file = new File("example.txt");
+           // Запись строки в файл
+           FileUtils.writeStringToFile(file, "Hello, Apache Commons!", "UTF-8");
+
+           // Чтение файла
+           String content = FileUtils.readFileToString(file, "UTF-8");
+           System.out.println(content); // "Hello, Apache Commons!"
+       }
+   }
+   ```
+
+2. **Google Guava**
+   Google Guava предоставляет коллекции, утилиты для работы со строками, конкурентные структуры данных и многое другое.
+
+   **Пример использования `Lists` и `Joiner`:**
+   ```java
+   import com.google.common.base.Joiner;
+   import com.google.common.collect.Lists;
+
+   import java.util.List;
+
+   public class Main {
+       public static void main(String[] args) {
+           List<String> list = Lists.newArrayList("Apple", "Banana", "Orange");
+
+           // Объединение элементов списка в строку через запятую
+           String result = Joiner.on(", ").join(list);
+           System.out.println(result); // "Apple, Banana, Orange"
+       }
+   }
+   ```
+
+   **Пример использования `Optional`:**
+   ```java
+   import com.google.common.base.Optional;
+
+   public class Main {
+       public static void main(String[] args) {
+           Optional<String> possible = Optional.of("Guava");
+
+           if (possible.isPresent()) {
+               System.out.println(possible.get()); // "Guava"
+           }
+       }
+   }
+   ```
+
+3. **Apache POI**
+   Apache POI – это библиотека для работы с форматами файлов Microsoft Office (Excel, Word и т.д.).
+
+   **Пример создания Excel файла:**
+   ```java
+   import org.apache.poi.ss.usermodel.*;
+   import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+   import java.io.FileOutputStream;
+   import java.io.IOException;
+
+   public class Main {
+       public static void main(String[] args) throws IOException {
+           Workbook workbook = new XSSFWorkbook();
+           Sheet sheet = workbook.createSheet("Example");
+
+           // Создание строки и ячейки в Excel
+           Row row = sheet.createRow(0);
+           Cell cell = row.createCell(0);
+           cell.setCellValue("Hello, Apache POI!");
+
+           // Сохранение Excel файла
+           try (FileOutputStream fileOut = new FileOutputStream("example.xlsx")) {
+               workbook.write(fileOut);
+           }
+
+           workbook.close();
+       }
+   }
+   ```
+
+Эти библиотеки значительно упрощают работу с файлами, строками и различными структурами данных, предоставляя высокоуровневые методы и утилиты.

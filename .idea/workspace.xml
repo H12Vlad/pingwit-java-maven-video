@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/ApacheCommonsPopularMethodsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/ApacheStringUtilsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/GoogleGuavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/Taras_Shevchenko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/TransformationFileIntoMSWordDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/versh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/1200x1200bf-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/MicrosoftWordFileCreationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/word/salomon_grundy.txt.url" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,13 +170,22 @@
       <option name="project" value="LOCAL" />
       <updated>1727016466618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727613997150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727613997150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New" />
     <MESSAGE value="New Repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Repository" />
+    <MESSAGE value="New" />
+    <MESSAGE value="Homework_28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework_28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
