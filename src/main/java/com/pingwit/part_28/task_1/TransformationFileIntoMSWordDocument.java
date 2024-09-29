@@ -1,4 +1,4 @@
-package com.pingwit.part_28.homework.task_1;
+package com.pingwit.part_28.task_1;
 
 import org.apache.poi.util.Units;
 import org.apache.poi.xwpf.usermodel.*;
