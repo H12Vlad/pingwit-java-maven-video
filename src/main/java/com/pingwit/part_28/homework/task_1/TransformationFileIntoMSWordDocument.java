@@ -14,8 +14,8 @@ public class TransformationFileIntoMSWordDocument {
         String font = "Gabriola";
 
         createImage(document, Path.of("src/main/java/com/pingwit/part_28/homework/task_1/Taras_Shevchenko.png"));
-        createTitle(document, font, "Taras Shevchenko");
-        createSubTitle(document, font, "Zvit");
+        createTitle(document, font, "A.V.G.");
+        createSubTitle(document, font, "Я Плачу");
 
         Files.readAllLines(Path.of("src/main/java/com/pingwit/part_28/homework/task_1/versh.txt"))
                 .forEach(line -> createRegularText(document, font, line));
