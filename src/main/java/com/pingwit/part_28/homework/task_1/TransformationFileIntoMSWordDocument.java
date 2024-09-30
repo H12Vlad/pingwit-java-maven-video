@@ -74,7 +74,7 @@ public class TransformationFileIntoMSWordDocument {
 
     private static void write(XWPFDocument document) {
         String currentDirectory = "src/main/java/com/pingwit/part_28/homework/task_1";
-        String outputFileName = currentDirectory + "/MyFavouriteSong.docx";
+        String outputFileName = currentDirectory + "/MyFavouriteSong.docx"; // не критично, но в файле будет стих, а не песня, я бы предложил поменять чтобы совсем хорошо было
 
         try (FileOutputStream fos = new FileOutputStream(outputFileName)) {
             document.write(fos);
