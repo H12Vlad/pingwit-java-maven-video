@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="" />
+    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/1000x1000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/A_V_G.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/TransformationFileIntoMSWordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/TransformationFileIntoMSWordDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/versh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_28/homework/task_1/sound.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,32 +37,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.MicrosoftWordFileCreationExample.executor": "Run",
-    "Application.NumberOfWordsTakeTwo.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.TransformationFileIntoMSWordDocument.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.pingwit-java-maven-video [clean,install].executor": "Run",
-    "Maven.pingwit-java-maven-video [clean,package].executor": "Run",
-    "Maven.pingwit-java-maven-video [clean].executor": "Run",
-    "Maven.pingwit-java-maven-video [compile].executor": "Run",
-    "Maven.pingwit-java-maven-video [package].executor": "Run",
-    "Maven.pingwit-java-maven-video [test].executor": "Run",
-    "Maven.pingwit-java-maven-video [validate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vladh/IdeaProjects/pingwit-java-maven-video",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicrosoftWordFileCreationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfWordsTakeTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransformationFileIntoMSWordDocument.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.pingwit-java-maven-video [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vladh/IdeaProjects/pingwit-java-maven-video&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com" />
@@ -178,7 +184,47 @@
       <option name="project" value="LOCAL" />
       <updated>1727613997150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727614285370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727614285370</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727614388367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727614388367</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727614446022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727614446022</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727614474273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727614474273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework_28">
+      <option name="closed" value="true" />
+      <created>1727614518166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727614518166</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

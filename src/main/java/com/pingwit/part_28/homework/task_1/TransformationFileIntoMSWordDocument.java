@@ -13,11 +13,11 @@ public class TransformationFileIntoMSWordDocument {
 
         String font = "Gabriola";
 
-        createImage(document, Path.of("src/main/java/com/pingwit/part_28/homework/task_1/Taras_Shevchenko.png"));
+        createImage(document, Path.of("src/main/java/com/pingwit/part_28/homework/task_1/1000x1000.jpg"));
         createTitle(document, font, "A.V.G.");
         createSubTitle(document, font, "Я Плачу");
 
-        Files.readAllLines(Path.of("src/main/java/com/pingwit/part_28/homework/task_1/versh.txt"))
+        Files.readAllLines(Path.of("src/main/java/com/pingwit/part_28/homework/task_1/sound.txt"))
                 .forEach(line -> createRegularText(document, font, line));
 
         write(document);
@@ -29,7 +29,7 @@ public class TransformationFileIntoMSWordDocument {
 
         XWPFRun titleRun = title.createRun();
         titleRun.setText(text);
-        titleRun.setColor("0000FF");
+        titleRun.setColor("800000");
         titleRun.setBold(true);
         titleRun.setFontFamily(font);
         titleRun.setFontSize(20);
@@ -41,7 +41,7 @@ public class TransformationFileIntoMSWordDocument {
 
         XWPFRun subtitleRun = subtitle.createRun();
         subtitleRun.setText(text);
-        subtitleRun.setColor("FFFF00");
+        subtitleRun.setColor("800080");
         subtitleRun.setBold(true);
         subtitleRun.setFontFamily(font);
         subtitleRun.setFontSize(16);
@@ -74,7 +74,7 @@ public class TransformationFileIntoMSWordDocument {
 
     private static void write(XWPFDocument document) {
         String currentDirectory = "src/main/java/com/pingwit/part_28/homework/task_1";
-        String outputFileName = currentDirectory + "/MyFavouriteSong.docx"; // не критично, но в файле будет стих, а не песня, я бы предложил поменять чтобы совсем хорошо было
+        String outputFileName = currentDirectory + "/MyFavouriteSong.docx";
 
         try (FileOutputStream fos = new FileOutputStream(outputFileName)) {
             document.write(fos);
