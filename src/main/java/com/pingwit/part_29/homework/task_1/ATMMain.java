@@ -11,7 +11,7 @@ import java.util.List;
 public class ATMMain {
     public static void main(String[] args) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
-        mapper.registerModule(new JavaTimeModule());
+        mapper.registerModule(new JavaTimeModule()); // в данном случае JavaTimeModule можно убрать
 
         InputStream filePath = ClassLoader.getSystemResourceAsStream("part_29/homework/task_1/atms.json");
 
