@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="01">
+        <firstName>Viliam</firstName>
+        <lastName>Baton</lastName>
+        <faculty>Computer Science</faculty>
+    </student>
+    <student id="11">
+        <firstName>Anna</firstName>
+        <lastName>Baez</lastName>
+        <faculty>Mathematics</faculty>
+    </student>
+    <student  id="09">
+        <firstName>Jec</firstName>
+        <lastName>Abner</lastName>
+        <faculty>Computer Science</faculty>
+    </student>
+    <student id="99">
+        <firstName>Merry</firstName>
+        <lastName>Alton</lastName>
+        <faculty>Physics</faculty>
+    </student>
+</students>

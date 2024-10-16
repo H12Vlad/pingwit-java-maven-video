@@ -4,29 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_1/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_1/ATMMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGeneratorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/JacksonJsonArrayReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/JacksonJsonArrayWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/JacksonJsonReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/JacksonJsonWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/TaxiDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/read/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/theory/JsonTheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/theory/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/theory/jsonArrayExample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/theory/jsonComplexExample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/theory/jsonExample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part_29/homework/task_1/atms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part_29/read/json_array_complex.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part_29/read/json_array_simple.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part_29/read/userRegitry.json" afterDir="false" />
+    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="Homework_29">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/DomParserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/JacksonXmlParserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/SaxParserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/StaxParserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_1/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_1/StudentsDeserializationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/FilmParserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/theory/XmlParserTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/theory/XmlTheory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part_30/Pingwit - Главная.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part_30/employee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part_30/homework/task_1/students.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_1/ATMMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_1/ATMMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGeneratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_29/homework/task_2/PasswordGeneratorMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +57,16 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ATMMain.executor": "Run",
     "Application.App.executor": "Run",
+    "Application.FilmParserMain.executor": "Run",
     "Application.JacksonJsonArrayReaderExample.executor": "Run",
     "Application.JacksonJsonReaderExample.executor": "Run",
     "Application.MicrosoftWordFileCreationExample.executor": "Run",
     "Application.NumberOfWordsTakeTwo.executor": "Run",
     "Application.PasswordGeneratorMain.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.StudentsDeserializationMain.executor": "Run",
     "Application.TransformationFileIntoMSWordDocument.executor": "Run",
+    "Application.com.pingwit.part_30.homework.task_3.FilmParserMain.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.pingwit-java-maven-video [clean,install].executor": "Run",
     "Maven.pingwit-java-maven-video [clean,package].executor": "Run",
@@ -83,7 +83,8 @@
     "last_opened_file_path": "C:/Users/vladh/IdeaProjects/pingwit-java-maven-video",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,6 +92,8 @@
       <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\resources\part_30\homework\task_2" />
+      <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com\pingwit\part_30\homework\task_2" />
       <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\resources\part_29\read" />
       <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com\pingwit\part_28\homework\task_1" />
       <recent name="C:\Users\vladh\IdeaProjects\pingwit-java-maven-video\src\main\java\com\pingwit\part_28\word" />
@@ -100,13 +103,26 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswordGeneratorMain">
+  <component name="RunManager" selected="Application.FilmParserMain">
     <configuration name="ATMMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pingwit.part_29.homework.task_1.ATMMain" />
       <module name="pingwit-java-maven-video" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pingwit.part_29.homework.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmParserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_30.homework.task_2.FilmParserMain" />
+      <module name="pingwit-java-maven-video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pingwit.part_30.homework.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JacksonJsonReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_29.read.JacksonJsonReaderExample" />
+    <configuration name="StudentsDeserializationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_30.homework.task_1.StudentsDeserializationMain" />
       <module name="pingwit-java-maven-video" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pingwit.part_29.read.*" />
+          <option name="PATTERN" value="com.pingwit.part_30.homework.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,25 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_29.homework.task_2.PasswordGeneratorMain" />
+    <configuration name="com.pingwit.part_30.homework.task_3.FilmParserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_30.homework.task_3.FilmParserMain" />
       <module name="pingwit-java-maven-video" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pingwit.part_29.homework.task_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransformationFileIntoMSWordDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pingwit.part_28.homework.task_1.TransformationFileIntoMSWordDocument" />
-      <module name="pingwit-java-maven-video" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pingwit.part_28.homework.task_1.*" />
+          <option name="PATTERN" value="com.pingwit.part_30.homework.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordGeneratorMain" />
-        <item itemvalue="Application.ATMMain" />
+        <item itemvalue="Application.FilmParserMain" />
+        <item itemvalue="Application.com.pingwit.part_30.homework.task_3.FilmParserMain" />
+        <item itemvalue="Application.StudentsDeserializationMain" />
         <item itemvalue="Application.JacksonJsonArrayReaderExample" />
-        <item itemvalue="Application.JacksonJsonReaderExample" />
-        <item itemvalue="Application.TransformationFileIntoMSWordDocument" />
+        <item itemvalue="Application.ATMMain" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727804968260</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework_29">
+      <option name="closed" value="true" />
+      <created>1728065780572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728065780572</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,7 +276,8 @@
     <MESSAGE value="New" />
     <MESSAGE value="Homework_28" />
     <MESSAGE value="Again_Homework_28" />
-    <option name="LAST_COMMIT_MESSAGE" value="Again_Homework_28" />
+    <MESSAGE value="Homework_29" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework_29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
