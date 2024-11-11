@@ -1,55 +1,24 @@
 package com.pingwit.part_30.homework.task_2;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Film {
-    private String title;
-    private String year;
-    private String country;
-    private String genre;
-    private String duration;
+    @JsonProperty("h2")
+    private String movieName;
+    @JsonProperty("b")
     private String description;
-    private String director;
+    @JsonProperty("excerpt")
+    private String excerpt;
 
-    public String getTitle() {
-        return title;
+    public String getMovieName() {
+        return movieName;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public void setMovieName(String movieName) {
+        this.movieName = movieName;
     }
 
-    public String getYear() {
-        return year;
-    }
-
-    public void setYear(String year) {
-        this.year = year;
-    }
-
-    public String getCountry() {
-        return country;
-    }
-
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
-    public String getGenre() {
-        return genre;
-    }
-
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
-
-    public String getDuration() {
-        return duration;
-    }
-
-    public void setDuration(String duration) {
-        this.duration = duration;
-    }
-
-    public String getDescription() {
+    public String getDescription(String text) {
         return description;
     }
 
@@ -57,24 +26,20 @@ public class Film {
         this.description = description;
     }
 
-    public String getDirector() {
-        return director;
+    public String getExcerpt() {
+        return excerpt;
     }
 
-    public void setDirector(String director) {
-        this.director = director;
+    public void setExcerpt(String excerpt) {
+        this.excerpt = excerpt;
     }
 
     @Override
     public String toString() {
         return "Film{" +
-                "title='" + title + '\'' +
-                ", year='" + year + '\'' +
-                ", country='" + country + '\'' +
-                ", genre='" + genre + '\'' +
-                ", duration='" + duration + '\'' +
+                "movieName='" + movieName + '\'' +
                 ", description='" + description + '\'' +
-                ", director='" + director + '\'' +
+                ", excerpt='" + excerpt + '\'' +
                 '}';
     }
 }
