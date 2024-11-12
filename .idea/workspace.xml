@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/Film.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/FilmParserMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pingwit/part_30/homework/task_2/FilmParserMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/part_30/homework/task_1/kinogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/part_30/homework/task_2/kinogo.html" afterDir="false" />
-    </list>
+    <list default="true" id="f51a197f-8f7c-40ab-910a-46b67b2725a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729105096491</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Last push">
+      <option name="closed" value="true" />
+      <created>1731349262051</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731349262051</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,7 +274,8 @@
     <MESSAGE value="Again_Homework_28" />
     <MESSAGE value="Homework_29" />
     <MESSAGE value="Homework_30_Task_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework_30_Task_1" />
+    <MESSAGE value="Last push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
